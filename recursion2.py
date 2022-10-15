@@ -3,22 +3,6 @@
 #  Description: In this assignment, we have recursively executed a variety of assignment problems. For some problems, we created and used helper 
 # functions to recursively solve problems. In general, we used the idea of the subsets function we coded in class to help us understand the recursion thought process.
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner's Name: Jazmin Reyna
-
-#  Partner's UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 10/2/2022
-
-#  Date Last Modified: 10/6/2022
-
 
 # Given an array of ints, is it possible to choose a group of some
 # of the ints, such that the group sums to the given target?
