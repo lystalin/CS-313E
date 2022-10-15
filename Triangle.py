@@ -7,21 +7,6 @@
 #               The brute force and divide and conquer methods are recursive approaches.
 
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin Reyna
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 10/8/2022
-
-#  Date Last Modified: 10/10/2022
 
 import sys
 
