@@ -9,21 +9,6 @@
 #               the minimum number of moves it would take to move all n pegs to the fourth peg while following
 #               the two rules of the puzzle.
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 10/10/2022
-
-#  Date Last Modified:
 import sys
 import math
 
