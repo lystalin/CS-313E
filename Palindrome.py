@@ -3,21 +3,6 @@
 #  Description: In this program, we're making inputted letters/words into palindromes. We are either adding letters onto the beginning or ends of 
 # these strings in order to do so.
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin Reyna
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 9/28/2022
-
-#  Date Last Modified: 9/28/2022
 
 import sys
 
