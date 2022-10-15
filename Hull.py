@@ -3,22 +3,6 @@
 #  Description: In this assignment we created a program that would take all of the points of a shape, find the outermost points
 # and then find the area of this shape. Our program also returns the outer most points in a clockwise order.
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin Reyna
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 9/24/2022
-
-#  Date Last Modified: 9/26/2022
-
 import sys
 
 import math
