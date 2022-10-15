@@ -6,18 +6,6 @@
 #                cup of coffee, where n <= (v // k ** 0) + (v // k ** 1) + (v // k ** 2) + ... (v // k ** p), and (v // k ** p+1) = 0. I 
 #                will first find v through binary search, then through linear search. I will output the timed searches and their v values.
 
-#  Student Name:  Jazmin Reyna
-
-#  Student UT EID:  jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 9/27/2922
-
-#  Date Last Modified:  9/30/2022
-
 import sys, time
 
 # Input: int n, the number of lines of code to write
