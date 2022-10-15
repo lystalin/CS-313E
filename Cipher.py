@@ -7,21 +7,6 @@
 #               and keeping the each character's case of the original message. To decrypt the second string, we will perform the 
 #               reverse of this process by building a table of the encrypted message and rotating the table counter-clockwise.
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin Reyna
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 9/9/2022
-
-#  Date Last Modified: 9/11/2022
 
 import sys
 
