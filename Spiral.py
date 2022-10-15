@@ -5,21 +5,6 @@
 #               the spiral, we will calculate the sum of every number adjacent to x. If x is not within the
 #               spiral, we will return 0.
 
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 8/31/2022
-
-#  Date Last Modified: 9/2/2022
 
 import sys
 
