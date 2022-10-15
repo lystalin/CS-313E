@@ -1,22 +1,5 @@
 #  File: Geometry.py 
 
-#  Description: 
-
-#  Student Name: Colleen Miller
-
-#  Student UT EID: cem4948
-
-#  Partner Name: Jazmin Reyna
-
-#  Partner UT EID: jr68648
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52530
-
-#  Date Created: 9/13/2022
-
-#  Date Last Modified: 
 
 
 import math
